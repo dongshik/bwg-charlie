@@ -14,7 +14,8 @@
 
     - 금융솔루션연구소 Slack bot (Charlie) 개발
     - slack message event capture
-    - 연결: <https://github.com/dongshik/charlie-slack/>
+    - * 이메일링크: <address@example.com>
+    - * 연결: <https://github.com/dongshik/charlie-slack/>
 
 ### charlie-web3
 
