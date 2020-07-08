@@ -14,6 +14,7 @@
 
     - 금융솔루션연구소 Slack bot (Charlie) 개발
     - slack message event capture
+    - https://github.com/dongshik/charlie-slack/
 
 ### charlie-web3
 
